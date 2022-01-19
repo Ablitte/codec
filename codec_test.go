@@ -2,8 +2,8 @@ package codec_test
 
 import (
 	"errors"
-	"github.com/greyworlds/codec"
-	"github.com/greyworlds/codec/protobuf/baseproto"
+	"github.com/greywords/codec"
+	"github.com/greywords/codec/protobuf/baseproto"
 	"log"
 	"testing"
 )

@@ -5,7 +5,7 @@ import (
 	"encoding/gob"
 	"errors"
 	"fmt"
-	"github.com/greyworlds/codec"
+	"github.com/greywords/codec"
 )
 
 type gobPacket struct {

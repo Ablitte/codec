@@ -3,8 +3,8 @@ package protobuf
 import (
 	"errors"
 	"fmt"
-	"github.com/greyworlds/codec"
-	"github.com/greyworlds/codec/protobuf/baseproto"
+	"github.com/greywords/codec"
+	"github.com/greywords/codec/protobuf/baseproto"
 
 	"github.com/golang/protobuf/proto"
 )

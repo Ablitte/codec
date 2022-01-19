@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/greyworlds/codec"
+	"github.com/greywords/codec"
 )
 
 type jsonCodec struct{}
